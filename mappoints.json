@@ -1,13 +1,2 @@
 [
-  {
-    "name": "20 boulevard d'athenes",
-    "coordinates": {
-      "latitude": 43.3029961,
-      "longitude": 5.3865217
-    },
-    "signal_date": "9/1/2023",
-    "incident_date": "27/08/2023",
-    "title": "Date de signalisation : 27/08/2023",
-    "description": "Date de traitement : 27/08/2023"
-  }
 ]
